@@ -1,0 +1,28 @@
+.item{
+    background-color: rgb(168, 245, 255);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border-color:rgb(127, 184, 192)
+}
+
+.image{
+    width: 1000;
+    height: 2000;
+}
+
+h3{
+    font-size: 100px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.item2{
+    background-color: rgb(146, 255, 204);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 15px;
+    border-color:rgb(127, 192, 132)
+}
